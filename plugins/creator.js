@@ -27,10 +27,10 @@ ${htjava} *🕋 Agama* : Hindu
 ${htjava} *⏰ Tanggal lahir* : Private 🥶
 ${htjava} *🎨 Umur* : 14
 ${htjava} *🧮 Kelas* : 8
-${htjava} *🧩 Hobby* : Turu
-${htjava} *💬 Sifat* : Wibu, Bilek, Prik, Nolep
+${htjava} *🧩 Hobby* : Game, Tiktok
+${htjava} *💬 Sifat* : pendiem, gaada temanh, Prik, Nolep
 ${htjava} *🗺️ Tinggal* : Indo, Bali, Jembrana, negara
-${htjava} *❤️ Waifu* : Yui - Hirasawa , Tsukasa Yuzaki, Onodera
+${htjava} *❤️ Waifu* : Raphatila, Filo, Shiroko, Queen, Kurumi
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
