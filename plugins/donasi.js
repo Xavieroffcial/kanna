@@ -6,6 +6,7 @@ let text = `
 
 ┌─「 Donasi • Non Pulsa 」
 │ • *Dana:* [${global.pdana}]
+│ • *Gopay:* [${global.pgopay}]
 ❏────
 `
 const templateButtons = [
