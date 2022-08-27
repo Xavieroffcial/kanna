@@ -61,7 +61,7 @@ global.psaweria = 'https://saweria.com/DonateBot'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6283862006229'
-global.nomorown = '6283862006229'
+global.nomorown = '6288215689772'
 global.namebot = 'Shirohigebot-MD'
 global.nameown = 'SkyxmoonOffc'
 
