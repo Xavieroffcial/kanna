@@ -61,7 +61,7 @@ global.psaweria = 'https://saweria.com/DonateBot'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6283862006229'
-global.nomorown = '6288215689772'
+global.nomorown = '6283862006229'
 global.namebot = 'Shirohigebot-MD'
 global.nameown = 'SkyxmoonOffc'
 
@@ -69,7 +69,7 @@ global.nameown = 'SkyxmoonOffc'
 /*============== STAFF ==============*/
 global.owner = [
   ['6283862006229', 'Sewa Bot', true],
-  ['6288215689772', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['6283862006229', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -124,7 +124,7 @@ global.author = '                「 SkyxmoonOffc  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/fdf2001baef63188d8783.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/8f7c272cb720a51c93a7b.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/998ce20a7edd3b9a4e29d.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://hardianto.xyz/api/anime/random?sfw=wallpaper&apikey=hardianto']
