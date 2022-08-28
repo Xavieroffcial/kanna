@@ -124,7 +124,7 @@ global.author = '                「 SkyxmoonOffc  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/8f7c272cb720a51c93a7b.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/477a7047acd837bda97f4.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/998ce20a7edd3b9a4e29d.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://hardianto.xyz/api/anime/random?sfw=wallpaper&apikey=hardianto']
