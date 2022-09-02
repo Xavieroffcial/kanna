@@ -18,7 +18,7 @@ Trace:
 
 npm manifest: 
   {
-      "name": "Kanna-BOT",
+      "name": "Shirohige-BOT",
       "version": "3.0.0",
       "description": "RPG WhatsApp BOT",
       "main": "index.js",
@@ -58,7 +58,7 @@ npm manifest:
       },
       "license": "GPL-3.0-or-later",
       "dependencies": {
-          "@adiwajshing/baileys": "^4.2.0",
+          "@adiwajshing/baileys": "^4.4.0",
           "@bochilteam/scraper": "^2.0.0",
           "@ibaraki-douji/pixivts": "^2.0.2",
           "acrcloud": "^1.4.0",
