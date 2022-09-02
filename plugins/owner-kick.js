@@ -8,12 +8,12 @@ let handler = async (m, { conn, participants }) => {
             kickedUser.concat(res)
             await delay(1 * 1000)
         }
-    m.reply(`Succes kick ${kickedUser.map(v => '@' + v.split('@')[0])}`, null, { mentions: kickedUser })
+    m.reply(`ꜱᴜᴄᴄᴇꜱ ᴋɪᴄᴋ📤 ${kickedUser.map(v => '@' + v.split('@')[0])}`, null, { mentions: kickedUser })
 
 }
-handler.help = ['kick', '-'].map(v => 'o' + v + ' @user')
-handler.tags = ['group']
-handler.command = /^(okick|o-)$/i
+handler.help = ['kick'].map(v => v + ' @user')
+handler.tags = ['owner']
+handler.command = /^(kick)$/i
 
 handler.admin = true
 handler.group = true
