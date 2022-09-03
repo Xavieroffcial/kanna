@@ -62,7 +62,7 @@ global.psaweria = 'https://saweria.com/DonateBot'
 /*============== NOMOR ==============*/
 global.nomorbot = '6283862006229'
 global.nomorown = '6283862006229'
-global.namebot = 'Shirohigebot-MD'
+global.namebot = 'sʜɪʀᴏʜɪɢᴇ-ᴍᴅ'
 global.nameown = 'SkyxmoonOffc'
 
 
@@ -114,13 +114,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 SkyxmoonOffc 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘SkyxmoonOffc ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm = '                「 sʜɪʀᴏʜɪɢᴇ-ᴍᴅ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘sʜɪʀᴏʜɪɢᴇ-ᴍᴅ ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ SkyxmoonOffc '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By SkyxmoonOffc`
-global.author = '                「 SkyxmoonOffc  あ⁩ 」'
+global.author = '                「 sʜɪʀᴏʜɪɢᴇ-ᴍᴅ  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
