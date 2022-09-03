@@ -2,7 +2,7 @@ import cheerio from 'cheerio'
 import fetch from 'node-fetch'
 
 let handler = async (m, { conn, args, usedPrefix, command }) => {
-	if (!args[0]) throw `Ex: ${usedPrefix + command} https://play.google.com/store/apps/details?id=com.linecorp.LGGRTHN`
+	if (!args[0]) throw `Ex: ${usedPrefix + command} https://play.google.com/store/search?q=genshin+impact&c=apps`
 	let res = await apkDl(args[0])
 	await m.reply('_In progress, please wait..._')
 	conn.sendMessage(m.chat, { document: { url: res.download }, mimetype: res.mimetype, fileName: res.fileName }, { quoted: m })
@@ -10,7 +10,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 handler.help = handler.alias = ['apkdl']
 handler.tags = ['downloader']
 handler.command = /^(apkdl)$/i
-handler.limit = true
+
 export default handler
 
 async function apkDl(url) {
