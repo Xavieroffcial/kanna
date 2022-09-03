@@ -124,7 +124,7 @@ global.author = '                「 sʜɪʀᴏʜɪɢᴇ-ᴍᴅ  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/477a7047acd837bda97f4.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/28a6c8c2d29bced9d11e5.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/998ce20a7edd3b9a4e29d.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://hardianto.xyz/api/anime/random?sfw=wallpaper&apikey=hardianto']
